@@ -1,0 +1,16 @@
+{
+    "name": "flash_component",
+    "description": "Flash Component",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pierre REROT",
+            "email": "pierre.rerot@inadvans.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flash\\": "InAdvans/src"
+        }
+    }
+}
