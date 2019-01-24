@@ -8,6 +8,10 @@ use Yii;
  */
 class Flash
 {
+    public function toString() {
+        return "Flash Component";
+    }
+
     /**
      * @param string $message
      * @param bool   $removeAfterAccess
