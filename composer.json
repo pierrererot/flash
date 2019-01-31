@@ -13,6 +13,5 @@
         "psr-4": {
             "Flash\\": "InAdvans/src"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
